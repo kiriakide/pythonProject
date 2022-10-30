@@ -19,4 +19,5 @@ import yfinance
 
 stocks = vds.stocks()
 stocks.head()
-st.(stocks)
+st.write(stocks)
+st.print(stocks)
